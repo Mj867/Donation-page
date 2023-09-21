@@ -5,7 +5,8 @@
 </head>
 <body>
     <h1>Support @mj867</h1>
-    <p>Please support, you can make a donation through PayPalفضلا التبرع من خلال رابط الباي بال في الأسفل، شكرا لكم :</p>
+    <p>Please support, you can make a donation through PayPal:
+        كرما التبرع من خلال رابط الباي بال في الأسفل، شكرا لكم 💐 :</p>
     
     <!-- Replace 'YOUR_PAYPAL_EMAIL' with the actual PayPal email address -->
     <a href="https://www.paypal.com/paypalme/mj867">Donate via PayPal</a>

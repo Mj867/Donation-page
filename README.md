@@ -12,5 +12,4 @@
     
     <!-- Replace 'YOUR_PAYPAL_EMAIL' with the actual PayPal email address -->
     <a href="https://www.paypal.com/paypalme/mj867">Donate via PayPal</a>
-</body>
-</html>
+
